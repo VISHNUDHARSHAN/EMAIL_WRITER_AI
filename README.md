@@ -67,6 +67,20 @@ cd ai-reply-email-writer
   "tone": "<tone>"
 }
 
+## OUTPUT
+The front page after clicking the reply button for a mail:
+
+![Screenshot (1369)](https://github.com/user-attachments/assets/62f4ba7d-6d34-4e9e-bae2-e4bc04b59f86)
+
+Tone selection:
+
+![Screenshot (1370)](https://github.com/user-attachments/assets/04efc1c9-a6e9-4687-889a-624d77c6e6fa)
+
+Response Generation:
+
+![Screenshot (1372)](https://github.com/user-attachments/assets/c4784192-363f-4067-9264-a9ec7c84960e)
+
+
 ## Contact
 
 For any inquiries or support, please contact:
