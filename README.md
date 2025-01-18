@@ -33,7 +33,7 @@ This project is an AI-powered email writer that integrates with Gmail via a Chro
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/EMAIL_WRITER_AI.git
+git clone https://github.com/VISHNUDHARSHAN/EMAIL_WRITER_AI.git
 cd ai-reply-email-writer
 
 ### 2. Backend Setup
